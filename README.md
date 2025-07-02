@@ -10,7 +10,7 @@ This project explores a Netflix dataset using Exploratory Data Analysis (EDA) to
 1. Clone the repo
 2. Install dependencies:  
    `pip install pandas matplotlib seaborn`
-3. Open `Netflix_EDA.ipynb` in Jupyter
+3. Open `netflix_data_analysis.ipynb` in Jupyter
 
 ## 📌 Conclusion
 The analysis provides insights into content trends and audience preferences on Netflix.

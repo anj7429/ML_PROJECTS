@@ -16,7 +16,7 @@ This project explores the Zomato restaurant dataset using Exploratory Data Analy
 1. Clone this repository
 2. Install dependencies:  
    `pip install pandas matplotlib seaborn`
-3. Open `zomato_EDA.ipynb` in Jupyter Notebook
+3. Open `zomato_eda.ipynb` in Jupyter Notebook
 
 ## 📌 Conclusion
 The analysis provides valuable insights for food businesses and customers to understand dining trends and preferences.

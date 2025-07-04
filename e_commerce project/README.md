@@ -16,7 +16,7 @@ This project performs Exploratory Data Analysis (EDA) on an E-Commerce dataset t
 1. Clone this repository
 2. Install dependencies:  
    `pip install pandas matplotlib seaborn`
-3. Open `ecommerce_EDA.ipynb` in Jupyter Notebook
+3. Open `ecommerce_data_analysis.ipynb` in Jupyter Notebook
 
 ## 📌 Conclusion
 This analysis helps businesses understand customer trends, improve product offerings, and optimize marketing strategies.

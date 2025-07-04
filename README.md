@@ -1,16 +1,28 @@
-# 📊 Netflix Data Analysis (EDA)
+# 🤖 Machine Learning Projects
 
-This project explores a Netflix dataset using Exploratory Data Analysis (EDA) to uncover trends in content type, genres, popularity, and user ratings.
+This repository contains various machine learning projects showcasing different algorithms, techniques, and applications.
 
-## 🛠 Tools Used
-- Python, pandas, matplotlib, seaborn
-- Jupyter Notebook for analysis
+## 🚀 Projects Included
+- Supervised Learning (Regression & Classification)
+- Unsupervised Learning (Clustering & Dimensionality Reduction)
+- Model Evaluation & Hyperparameter Tuning
+- Feature Engineering & Data Preprocessing
 
-## 📂 How to Run
-1. Clone the repo
-2. Install dependencies:  
-   `pip install pandas matplotlib seaborn`
-3. Open `netflix_data_analysis.ipynb` in Jupyter
+## 🛠 Tools & Libraries
+- Python
+- Scikit-learn
+- pandas, numpy
+- matplotlib, seaborn
+- Jupyter Notebook
 
-## 📌 Conclusion
-The analysis provides insights into content trends and audience preferences on Netflix.
+## 📂 How to Use
+1. Clone this repository
+2. Navigate to any project folder
+3. Run the Jupyter notebooks to explore the analysis and models
+
+## 📌 Note
+Each project folder contains a separate README explaining its objective, dataset, and results.
+
+---
+
+*Feel free to explore, learn, and contribute!*

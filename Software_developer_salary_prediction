@@ -1,0 +1,31 @@
+Software Developer Salary Prediction
+A machine learning app that predicts software developer salaries based on experience, country, and education.
+
+✅ Features
+Data preprocessing and analysis
+
+ML model for salary prediction
+
+Interactive web app using Streamlit
+
+🚀 How to Run
+Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the app:
+
+bash
+Copy
+Edit
+streamlit run app.py
+📂 Files
+app.py – Streamlit web app
+
+model.pkl – Trained model
+
+requirements.txt – Dependencies
+
+salary_data.csv – Dataset

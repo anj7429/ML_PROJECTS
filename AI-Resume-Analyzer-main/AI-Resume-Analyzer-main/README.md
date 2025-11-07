@@ -28,16 +28,6 @@ It uses **BERT embeddings** for similarity scoring and **Groq’s LLM (Llama 3.3
 | Environment Variables | python-dotenv |
 
 ---
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/anj7429/AI-Resume-Analyzer.git
-   cd AI-Resume-Analyzer
-
-
-
 # ⚙️ Installation Steps
 
 Follow these steps to set up and run the **AI Resume Analyzer** locally:
@@ -48,7 +38,7 @@ Make sure you have Python and Git installed.
 ### 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/Altoks-AI/AI-Resume-Analyzer.git
+git clone https://github.com/anj7429/AI-Resume-Analyzer.git
 ```
 ```
 cd FolderName
@@ -88,6 +78,7 @@ http://localhost:8501
 ---
 ✅ Now you’re all set!
 Upload a resume, paste a job description, and let the AI analyze your resume for job-fit and provide suggestions. 
+
 
 
 
